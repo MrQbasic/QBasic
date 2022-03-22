@@ -13,7 +13,7 @@ Dim fov As Double
 Dim f As Double
 
 zf = 100
-zr = .1
+zn = .1
 fov = 100
 sch = 480
 scw = 640
